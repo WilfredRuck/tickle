@@ -1,6 +1,6 @@
 # TICKLE - Wilfred Ruck
 
-An mvp pricing engine that prints out the estimated policy price for a given person written in JavaScript.
+An mvp pricing engine that prints out the estimated policy price for a given person written in JavaScript with tests in Jasmine.
 
 ## Technical Specifications
 
