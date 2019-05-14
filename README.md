@@ -8,8 +8,8 @@ TICKLE was built using <a href="https://nodejs.org/en/">Node 10.15.3</a>.
 
 ## Installation
 
-Getting Up and Running
+Running Tests
 
-Assuming you have the techincal specifications noted above, navigate to the project folder in your console and run `node tickle.js`.
+Assuming you have the techincal specifications noted above, navigate to the project folder in your console and run `jasmine spec/tickle_spec.js`.
 
 ## Tradeoffs and/or Design Decisions
